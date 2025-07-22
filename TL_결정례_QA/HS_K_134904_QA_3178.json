@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "134904",
+        "finalDate": "1993.09.27",
+        "caseNum": "89헌마248",
+        "caseName": "침구사 자격취득에 관한 헌법소원",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "공동소송참가가 부적법한 이유는 무엇인가요?",
+        "output": "공동소송참가가 부적법한 이유는 헌법소원 청구기간을 도과한 상태에서 공동소송참가 신청이 이루어졌기 때문입니다. 이는 날짜 계산상 명백하므로 해당 신청은 부적법합니다.",
+        "originwordCnt": "412",
+        "labelwordCnt": "18"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "138007",
+        "finalDate": "2009.08.11",
+        "caseNum": "2009헌마405",
+        "caseName": "재판취소",
+        "caseCode": "",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "이 사건 심판청구가 각하된 이유는 무엇인가요?",
+        "output": "대법원의 재항고기각결정을 대상으로 한 이 사건 심판청구는 헌법재판소법 제72조 제3항 제1호 후단에 따라 부적법한 청구로 판단되었습니다. 이에 따라 관여 재판관 전원의 일치된 의견으로 심판청구가 각하되었습니다.",
+        "originwordCnt": "338",
+        "labelwordCnt": "25"
+    }
+}

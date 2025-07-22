@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "134875",
+        "finalDate": "1989.12.22",
+        "caseNum": "89헌마145",
+        "caseName": "검사의 공소권행사에 관한 헌법소원",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "고발인이 불기소처분에 대해 헌법소원을 제기할 수 있는 특별한 사정은 무엇인가요?",
+        "output": "검사가 고발사건을 소홀히 다루어, 검찰권을 행사함에 있어 고발인 자신을 차별대우하여 평등권을 침해하는 경우에는 헌법소원심판청구가 가능할 수 있습니다.",
+        "originwordCnt": "62",
+        "labelwordCnt": "17"
+    }
+}

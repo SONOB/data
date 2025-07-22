@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "14876",
+        "finalDate": "2011.02.15",
+        "caseNum": "2011헌바20",
+        "caseName": "형법 제50조 제2항 등 위헌소원",
+        "caseCode": "헌바",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘재판소 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "입법부작위를 헌법소원으로 다툴 수 있나요?",
+        "output": "헌법재판소법 제68조 제2항에 의한 헌법소원은 법률의 위헌성을 다투는 제도로, '법률의 부존재' 즉, 입법부작위를 다투는 것은 허용되지 않습니다.",
+        "originwordCnt": "495",
+        "labelwordCnt": "17"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "159139",
+        "finalDate": "2020.07.07",
+        "caseNum": "2020헌마790",
+        "caseName": "형법 제35조 등 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "형사법 조항에 의한 기본권 침해 사유가 발생한 시점은 언제인가요?",
+        "output": "형사법 조항에 의한 기본권 침해 사유가 발생한 시점은 해당 법령 위반을 이유로 검사가 공소를 제기한 시점으로, 일반적으로는 공소장 부본을 송달받은 날로 보아야 합니다.",
+        "originwordCnt": "339",
+        "labelwordCnt": "23"
+    }
+}

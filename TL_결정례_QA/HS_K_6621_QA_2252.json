@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "6621",
+        "finalDate": "2005.09.29",
+        "caseNum": "2005헌마513",
+        "caseName": "기소유예처분 등 취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "기소유예처분이 평등권과 행복추구권을 침해한다고 주장에대해 헌법재판소는 어떻게 판결을 내렸나요?",
+        "output": "헌법재판소는 기록을 살펴본 결과, 헌법위반이 있어 청구인의 기본권이 침해되었다고 볼 수 없다고 판단했습니다. 따라서 청구인의 심판청구는 이유가 없으므로 기각되었습니다.",
+        "originwordCnt": "485",
+        "labelwordCnt": "19"
+    }
+}

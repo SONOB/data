@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "190507",
+        "finalDate": "2024.04.26",
+        "caseNum": "2024헌마353",
+        "caseName": "기본권 침해 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "이전에 동일한 사건에 대해 헌법소원을 제기했으나, 헌법재판소는 법원의 재판이 예외적으로 헌법소원의 대상이 되지 않는다고 각하한 바 있습니다. 이후 청구인은 동일한 내용을 다시 청구하였으나, 이는 일사부재리 원칙에 위반되어 헌법재판소법 제72조 제3항 제4호에 따라 각하되었습니다.",
+        "originwordCnt": "289",
+        "labelwordCnt": "33"
+    }
+}

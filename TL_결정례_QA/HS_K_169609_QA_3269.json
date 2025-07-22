@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "169609",
+        "finalDate": "2021.10.12",
+        "caseNum": "2021헌마1217",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "심판청구가 각하된 이유는 무엇인가요?",
+        "output": "이 사건 심판청구는 동일한 내용이 계속해서 반복적으로 청구되었고, 이러한 반복적 청구는 청구권 남용으로 간주되어 부적법하므로 각하하였습니다.",
+        "originwordCnt": "102",
+        "labelwordCnt": "16"
+    }
+}

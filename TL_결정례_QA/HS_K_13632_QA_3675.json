@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "13632",
+        "finalDate": "2010.05.27",
+        "caseNum": "2007헌바100",
+        "caseName": "형법 제246조 제1항 등 위헌소원",
+        "caseCode": "헌바",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "형법 제247조의 도박 개념에 대한 명확성 원칙 위배 여부는 어떻게 판단되나요?",
+        "output": "헌법재판소는 형법 제247조의 도박 개념이 명확성 원칙에 위배되지 않으며, 재산상 이익을 걸고 도박을 하는 경우도 포함된다는 점을 수범자들이 충분히 예측할 수 있다고 판단했습니다.",
+        "originwordCnt": "2189",
+        "labelwordCnt": "23"
+    }
+}

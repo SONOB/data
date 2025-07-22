@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "183673",
+        "finalDate": "2023.06.27",
+        "caseNum": "2023헌마798",
+        "caseName": "헌법재판소 결정 취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "자신의 기본권이 침해되었다는 구체적인 주장 없이 헌법소원심판을 청구하였습니다. 그러나 헌법소원심판은 기본권 침해 가능성을 구체적으로 명확하게 주장해야 하므로, 이 심판청구는 부적법합니다. 따라서 헌법재판소법 제72조 제3항 제4호에 따라 이 사건 심판청구는 각하되었습니다.",
+        "originwordCnt": "96",
+        "labelwordCnt": "30"
+    }
+}

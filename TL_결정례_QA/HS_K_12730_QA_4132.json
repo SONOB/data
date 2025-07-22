@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "12730",
+        "finalDate": "2010.01.05",
+        "caseNum": "2009헌마685",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "헌법소원 심판청구를 할 때 변호사를 대리인으로 선임하지 않으면 어떻게 되나요?",
+        "output": "헌법소원 심판청구를 할 때 변호사를 대리인으로 선임하지 않으면, 보정명령을 받고도 보정하지 않을 경우 헌법재판소법에 따라 심판청구가 각하됩니다.",
+        "originwordCnt": "125",
+        "labelwordCnt": "17"
+    }
+}

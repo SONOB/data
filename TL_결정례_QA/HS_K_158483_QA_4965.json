@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "158483",
+        "finalDate": "2020.05.27",
+        "caseNum": "2019헌마796",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "최종적으로 이 사건 기소유예처분에 대한 법원의 결론은 무엇이었나요?",
+        "output": "최종적으로 법원은 이 사건 기소유예처분이 자의적인 증거판단과 법리오해로 인해 청구인의 평등권과 행복추구권을 침해했다고 판단하였고, 이에 따라 해당 기소유예처분을 취소하였습니다.",
+        "originwordCnt": "925",
+        "labelwordCnt": "19"
+    }
+}

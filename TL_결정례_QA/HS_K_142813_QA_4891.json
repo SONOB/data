@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "142813",
+        "finalDate": "2017.11.30",
+        "caseNum": "2017헌사574",
+        "caseName": "효력정지가처분신청",
+        "caseCode": "헌가",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘재판소 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "가처분 신청이 기각된 이유는 무엇인가요?",
+        "output": "가처분 신청은 법적 근거가 부족하여 이유가 없다고 판단되었습니다. 관여 재판관 전원의 일치된 의견에 따라 이 사건 신청을 기각한다는 주문이 내려졌습니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "20"
+    }
+}

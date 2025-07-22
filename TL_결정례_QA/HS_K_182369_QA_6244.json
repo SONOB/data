@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "182369",
+        "finalDate": "2023.04.25",
+        "caseNum": "2023헌마554",
+        "caseName": "재수사 결정 거부 처분 취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "검사의 사법경찰관 불송치결정에 대한 재수사 요청 의무는 헌법상 명문으로 규정되어 있지 않은가요?",
+        "output": "검사의 사법경찰관 불송치결정에 대한 재수사 요청 의무는 헌법상 명문으로 특별히 구체적으로 규정되어 있지 않으며, 헌법의 해석상 도출된다고 볼 수도 없습니다.",
+        "originwordCnt": "352",
+        "labelwordCnt": "20"
+    }
+}

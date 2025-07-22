@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "46713",
+        "finalDate": "2015.06.25",
+        "caseNum": "2014헌마90",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "업무방해 사건에 대한 기소유예처분이 헌법상 평등권을 침해했다고 주장하였으나, 헌법재판소는 피청구인의 수사나 법 적용에 중대한 잘못이 없고, 기소유예처분이 자의적이라고 볼 근거도 없다고 판단하였습니다. 따라서 청구인들의 기본권이 침해되었다고 볼 수 없으므로 심판청구를 기각했습니다.",
+        "originwordCnt": "132",
+        "labelwordCnt": "31"
+    }
+}

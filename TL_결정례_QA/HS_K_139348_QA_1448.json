@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "139348",
+        "finalDate": "2009.10.13",
+        "caseNum": "2009헌아144",
+        "caseName": "재판취소 등(재심)",
+        "caseCode": "각하",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법재판소는 재심청구인이 주장한 사유가 어떤 이유로 부적법하다고 판단하였나요?",
+        "output": "헌법재판소는 청구인이 주장한 사유가 헌법재판소법 제40조에 의해 준용되는 민사소송법 제451조 제1항 각 호의 재심사유에 해당하지 않는다고 보았습니다.",
+        "originwordCnt": "253",
+        "labelwordCnt": "17"
+    }
+}

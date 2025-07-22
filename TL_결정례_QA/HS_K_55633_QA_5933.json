@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "55633",
+        "finalDate": "1989.04.13",
+        "caseNum": "89헌마43",
+        "caseName": "판결의 양형에 관한 헌법소원",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "부적합한 소원으로 판단된 이유는 무엇인가요?",
+        "output": "헌법소원이 각하된 이유는 청구인의 소원이 형사처벌에 관한 1심 형량이 중하다는 법원 판결에 대한 것이므로, 부적합한 소원으로 판단되었기 때문입니다. 따라서 헌법재판소법 제72조 제3항 제1호에 따라 심판청구가 각하되었습니다.",
+        "originwordCnt": "46",
+        "labelwordCnt": "26"
+    }
+}

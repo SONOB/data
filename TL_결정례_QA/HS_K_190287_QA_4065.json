@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "190287",
+        "finalDate": "2024.04.23",
+        "caseNum": "2024헌사491",
+        "caseName": "효력정지가처분신청",
+        "caseCode": "헌사",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "효력정지가처분신청이 각하된 이유는 무엇인가요?",
+        "output": "효력정지가처분신청은 본안사건의 심판이 적법하게 계속되는 것을 전제로 합니다. 그러나 본안사건이 부적법하여 각하되었기 때문에, 효력정지가처분신청 역시 적법하게 유지될 수 없어 각하되었습니다.",
+        "originwordCnt": "78",
+        "labelwordCnt": "20"
+    }
+}

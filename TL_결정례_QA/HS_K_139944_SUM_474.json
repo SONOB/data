@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "139944",
+        "finalDate": "2009.11.10",
+        "caseNum": "2009헌마598",
+        "caseName": "재판취소",
+        "caseCode": "각하",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "선고된 판결에 대해 헌법소원을 청구했으나, 해당 판결은 원칙적으로 헌법소원의 대상이 되지 않는 법원의 재판에 해당합니다. 따라서 헌법재판소는 이 심판청구가 부적법하다고 판단하여 헌법재판소법 제72조 제3항 제1호 후단에 따라 청구를 각하하기로 결정했습니다.",
+        "originwordCnt": "307",
+        "labelwordCnt": "30"
+    }
+}

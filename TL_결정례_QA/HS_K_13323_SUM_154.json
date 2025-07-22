@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "13323",
+        "finalDate": "2010.04.13",
+        "caseNum": "2010헌아88",
+        "caseName": "검찰청법 제10조 제5항 위헌확인 등(재심)",
+        "caseCode": "헌아",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "헌법재판소가 각하한 사건에 대한 재심청구를 하였으나 헌법재판소는 이전 사건과 동일한 주장만을 하고 있을 뿐 재심청구의 사유를 주장하고 있지 않아 부적법하다고 보았습니다.  따라서 해당 심판청구는 헌법재판소법 제72조 제3항 제4호에 의하여 각하하였습니다.",
+        "originwordCnt": "152",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "21085",
+        "finalDate": "2012.10.16",
+        "caseNum": "2012헌마740",
+        "caseName": "보호감호처분 등 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "사회보호법 폐지법률 부칙 제2조에 대한 헌법소원심판 청구는 왜 각하되었나요?",
+        "output": "사회보호법 폐지법률 부칙 제2조에 대한 헌법소원심판 청구는 해당 법령이 시행된 후 1년이 경과한 후에 제기되어 청구기간이 도과하였기 때문에 각하되었습니다.",
+        "originwordCnt": "285",
+        "labelwordCnt": "19"
+    }
+}

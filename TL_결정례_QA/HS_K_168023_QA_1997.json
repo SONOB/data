@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "168023",
+        "finalDate": "2021.08.24",
+        "caseNum": "2021헌사783",
+        "caseName": "가처분신청",
+        "caseCode": "헌사",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘재판소 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "가처분신청이 각하될 수 있는 경우는 언제인가요?",
+        "output": "가처분신청은 본안사건이 존재하지 않거나, 본안사건 심판청구의 내용이 전혀 특정되지 않은 경우에는 적법하게 유지될 수 없으므로, 이러한 신청 사건은 부적법하므로 각하될 수 있습니다.",
+        "originwordCnt": "113",
+        "labelwordCnt": "22"
+    }
+}

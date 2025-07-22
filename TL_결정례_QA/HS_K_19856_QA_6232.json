@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "19856",
+        "finalDate": "2012.06.05",
+        "caseNum": "2012헌마392",
+        "caseName": "기소유예처분취소 등",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법소원심판 청구는 언제까지 해야 하나요?",
+        "output": "헌법소원의 심판은 헌법재판소법 제69조 제1항에 따라 그 사유가 있음을 안 날부터 90일 이내에, 그 사유가 있은 날부터 1년 이내에 청구해야 적법합니다.",
+        "originwordCnt": "284",
+        "labelwordCnt": "21"
+    }
+}

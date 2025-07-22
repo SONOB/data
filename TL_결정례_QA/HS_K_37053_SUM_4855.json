@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "37053",
+        "finalDate": "2014.05.29",
+        "caseNum": "2013헌마635",
+        "caseName": "수사부재기결정취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "부재기결정이 헌법상 보장된 기본권을 침해했다고 주장하였으나, 검찰청이 원래의 불기소처분을 재기하여 수사 중이므로 해당 부재기결정의 효력이 상실된 상태입니다. 따라서 이 사건 헌법소원심판 청구는 기본권 침해를 구제할 권리보호이익이 없어 부적법하다고 판단하여 청구를 각하하였습니다.",
+        "originwordCnt": "381",
+        "labelwordCnt": "31"
+    }
+}

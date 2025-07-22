@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "147262",
+        "finalDate": "2018.05.31",
+        "caseNum": "2018헌마132",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌가",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘재판소 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법재판소는 피청구인의 기소유예처분이 자의적인 처분이라고 판단했나요?",
+        "output": "헌법재판소는 피청구인의 기소유예처분이 자의적인 처분이라고 볼 자료가 없고, 헌법상 보장된 청구인의 기본권이 침해되었다고 인정할 수 없다고 판단하여 심판청구를 기각했습니다.",
+        "originwordCnt": "122",
+        "labelwordCnt": "19"
+    }
+}

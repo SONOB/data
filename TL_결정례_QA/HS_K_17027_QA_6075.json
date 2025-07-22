@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "17027",
+        "finalDate": "2011.09.29",
+        "caseNum": "2011헌사151",
+        "caseName": "형집행정지가처분신청",
+        "caseCode": "헌사",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법재판소는 신청인의 형집행정지가처분 신청을 기각한 이유는 무엇인가요?",
+        "output": "헌법 제69조 제2항을 참조하여, 헌법재판소는 신청인의 형집행정지가처분 신청이 이유 없다고 판단하였으며, 이에 따라 관여 재판관 전원의 일치된 의견으로 신청을 기각하였습니다.",
+        "originwordCnt": "98",
+        "labelwordCnt": "20"
+    }
+}

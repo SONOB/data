@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "12946",
+        "finalDate": "2010.02.16",
+        "caseNum": "2010헌바61",
+        "caseName": "상고심절차에 관한 특례법 제4조 제1항 관련",
+        "caseCode": "헌바",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "심판청구가 헌법재판소에서 받아들여지지 않은 구체적인 이유는 무엇인가요?",
+        "output": "심판청구는 청구인이 위헌법률심판제청신청을 할 당시, 당해사건이 법원에 계속 중이지 않았기 때문에 헌법재판소법 제72조 제3항 제4호에 따라 부적법하여 각하되었습니다.",
+        "originwordCnt": "210",
+        "labelwordCnt": "18"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "140414",
+        "finalDate": "2009.11.26",
+        "caseNum": "2009헌사799",
+        "caseName": "기피신청",
+        "caseCode": "헌가",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘재판소 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법재판소가 재판관 기피신청을 기각한 이유는 무엇인가요?",
+        "output": "재판관 기피신청이 기각된 이유는 신청인의 주장을 인정하기 어렵고, 신청인이 주장한 사정만으로는 심판의 공정성을 기대하기 어려운 사정이 있다고 할 수 없기 때문입니다.",
+        "originwordCnt": "906",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "6401",
+        "finalDate": "2005.09.29",
+        "caseNum": "2004헌마969",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "명예훼손죄로 기소유예처분을 한 것이 헌법상 평등권과 행복추구권을 침해했다고 주장하였으나, 헌법재판소는 사건 기록을 검토한 결과 검사의 처분에 헌법 위반이 없어 청구인의 기본권이 침해되었다고 볼 수 없다고 판단하였습니다. 따라서 청구인의 심판청구는 이유 없으므로 기각하였습니다.",
+        "originwordCnt": "444",
+        "labelwordCnt": "32"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "53956",
+        "finalDate": "2017.02.08",
+        "caseNum": "2017헌바71",
+        "caseName": "헌법재판소법 제41조 제1항 위헌소원",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "위헌법률심판제청이 재판의 전제성이 없는 경우 어떤 결정을 내립니까?",
+        "output": "위헌법률심판제청이 재판의 전제성이 없어 부적법한 신청인 경우에는 헌법재판소법 제72조 제3항 제4호에 의하여 각하결정을 내리게 됩니다.",
+        "originwordCnt": "55",
+        "labelwordCnt": "15"
+    }
+}

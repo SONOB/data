@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "4863",
+        "finalDate": "2001.05.31",
+        "caseNum": "2001헌마32",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "헌법소원심판 청구 기간이 경과한 경우에는 어떤 결정이 내려지나요?",
+        "output": "헌법소원심판 청구는 그 사유가 있음을 안 날로부터 60일, 그 사유가 있는 날부터 180일 이내에 청구해야 하며, 이 기간을 도과한 경우에는 심판청구가 부적법하여 각하 결정이 내려집니다.",
+        "originwordCnt": "240",
+        "labelwordCnt": "25"
+    }
+}

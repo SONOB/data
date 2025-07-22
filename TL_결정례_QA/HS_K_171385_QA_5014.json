@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "171385",
+        "finalDate": "2022.01.25",
+        "caseNum": "2022헌마48",
+        "caseName": "공소부제기 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘재판소 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "공소를 제기하지 않는 부작위가 헌법소원의 대상이 될 수 있나요?",
+        "output": "공소를 제기하지 않는 부작위는 헌법상 수사기관에게 공소 제기 의무가 부여되지 않았기 때문에 헌법소원의 대상이 되는 공권력의 불행사에 해당하지 않습니다.",
+        "originwordCnt": "236",
+        "labelwordCnt": "19"
+    }
+}

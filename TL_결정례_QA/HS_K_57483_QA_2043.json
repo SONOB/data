@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "57483",
+        "finalDate": "2017.07.25",
+        "caseNum": "2017헌바300",
+        "caseName": "헌법재판소법 제41조 제1항 위헌소원",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "심판청구에서 재판의 전제성이 없다고 판단된 이유는 무엇인가요?",
+        "output": "심판청구는 재판의 전제성이 없어 부적법하다고 판단되어 각하되었습니다. 헌법재판소법 제41조 제1항에 따르면, 재판의 전제성이 없는 경우 위헌법률심판 제청이 부적법합니다.",
+        "originwordCnt": "50",
+        "labelwordCnt": "18"
+    }
+}

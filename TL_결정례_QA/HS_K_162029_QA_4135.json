@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "162029",
+        "finalDate": "2020.11.24",
+        "caseNum": "2020헌마1513",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "헌법소원심판 청구가 각하될 수 있는 사유는 무엇인가요?",
+        "output": "헌법소원심판 청구는 헌법재판소의 결정에 대해 적법한 재심사유 없이 반복적으로 불복하거나, 헌법소원심판 청구권을 남용하는 경우 부적법하다고 판단되어 각하될 수 있습니다. 이에 이 사건 심판청구를 각하하였습니다.",
+        "originwordCnt": "86",
+        "labelwordCnt": "24"
+    }
+}

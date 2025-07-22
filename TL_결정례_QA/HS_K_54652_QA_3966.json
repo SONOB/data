@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "54652",
+        "finalDate": "2017.04.18",
+        "caseNum": "2017헌마343",
+        "caseName": "판사의 임명절차 위헌확인",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법령이 시행된 후 1년이 지난 시점에 헌법소원을 청구하면 심판청구가 어떻게 되나요?",
+        "output": "법령이 시행된 후 1년이 지난 시점에 헌법소원을 청구하면, 해당 심판청구는 청구기간을 도과하여 부적법하게 됩니다. 따라서 헌법재판소법 제72조 제3항 제4호에 따라 각하됩니다.",
+        "originwordCnt": "212",
+        "labelwordCnt": "21"
+    }
+}

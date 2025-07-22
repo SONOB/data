@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "149715",
+        "finalDate": "2018.12.27",
+        "caseNum": "2017헌마1069",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌가",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "헌법재판소가 이 사건 기소유예처분을 취소한 이유는 무엇인가요?",
+        "output": "헌법재판소는 피청구인의 기소유예처분이 법리오해와 수사미진으로 인해 자의적 검찰권의 행사가 되어 청구인의 평등권과 행복추구권을 침해하였다고 판단하여 이 사건 기소유예처분을 취소하였습니다.",
+        "originwordCnt": "804",
+        "labelwordCnt": "19"
+    }
+}

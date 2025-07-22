@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "151604",
+        "finalDate": "2019.07.09",
+        "caseNum": "2019헌마634",
+        "caseName": "형사처벌 부작위 위헌확인",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법재판소는 어떤 기준에 따라 심판대상을 확정하나요?",
+        "output": "헌법재판소는 청구취지에 전적으로 구속되지 않으며, 청구인의 주장요지를 종합적으로 판단하여 심판대상을 확정합니다. 심판대상을 확정하는 과정에서 헌법재판소법 제40조 제1항이 적용됩니다.",
+        "originwordCnt": "327",
+        "labelwordCnt": "18"
+    }
+}

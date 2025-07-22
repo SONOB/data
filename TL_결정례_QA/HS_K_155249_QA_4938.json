@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "155249",
+        "finalDate": "2020.02.04",
+        "caseNum": "2020헌마64",
+        "caseName": "무혐의 처분 등 위헌확인",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "헌법소원심판을 청구할 때 어떤 조건을 충족해야 하나요?",
+        "output": "헌법소원심판을 청구할 때는 자신의 기본권 침해가 구체적이고 명확하게 주장되어야 하며, 막연하고 모호한 주장만으로는 헌법소원이 부적법하게 됩니다.",
+        "originwordCnt": "113",
+        "labelwordCnt": "16"
+    }
+}

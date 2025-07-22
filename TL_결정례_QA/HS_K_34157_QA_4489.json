@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "34157",
+        "finalDate": "2013.12.17",
+        "caseNum": "2013헌마797",
+        "caseName": "군사기밀보호법 제13조 제1항 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "청구인의 심판청구가 각하된 이유는 무엇인가요?",
+        "output": "청구인의 심판청구는 이 사건 법률조항에 따른 기본권 침해사유가 발생한 날로부터 90일 이내에 청구하지 않아 청구기간이 도과되었기 때문에 각하되었습니다.",
+        "originwordCnt": "287",
+        "labelwordCnt": "18"
+    }
+}

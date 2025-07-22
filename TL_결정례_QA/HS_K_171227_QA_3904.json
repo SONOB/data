@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "171227",
+        "finalDate": "2022.01.18",
+        "caseNum": "2021헌마1582",
+        "caseName": "신고 불수리 등 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "청구인의 헌법소원심판 청구가 각하된 이유는 무엇인가요?",
+        "output": "청구인은 기본권 침해의 사유가 발생한 날로부터 1년이 경과한 후에 헌법소원심판을 청구하였기 때문에, 헌법재판소법 제69조 제1항의 청구기간을 초과하여 부적법하다고 판단되어 각하되었습니다.",
+        "originwordCnt": "241",
+        "labelwordCnt": "20"
+    }
+}

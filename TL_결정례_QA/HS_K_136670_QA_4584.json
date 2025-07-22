@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "136670",
+        "finalDate": "2003.01.30",
+        "caseNum": "2002헌마181",
+        "caseName": "기소유예처분취소",
+        "caseCode": "",
+        "courtCode": "기타",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피청구인이 기소유예 처분을 내린 것이 왜 자의적인 검찰권 행사로 간주되었나요?",
+        "output": "피청구인의 기소유예 처분은 결정에 영향을 미친 중대한 사실오인과 법리오해의 잘못이 있어, 자의적인 검찰권 행사로 간주되었으며, 이로 인해 청구인들의 평등권과 행복추구권이 침해된 것으로 판단되었습니다.",
+        "originwordCnt": "961",
+        "labelwordCnt": "23"
+    }
+}

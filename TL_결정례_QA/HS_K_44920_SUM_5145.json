@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "44920",
+        "finalDate": "2015.03.26",
+        "caseNum": "2014헌마175",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "상해 등 사건에 대해 기소유예 결정을 내린 것에 대해 기본권 침해를 주장하며 헌법소원을 제기하였습니다. 그러나 처분에 형평에 반하는 수사나 법률 적용의 중대한 잘못이 없었으며, 헌법재판소가 개입할 정도로 자의적인 처분도 아니었습니다. 따라서 이 사건 심판청구는 기각되었습니다.",
+        "originwordCnt": "144",
+        "labelwordCnt": "35"
+    }
+}

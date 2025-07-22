@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "135449",
+        "finalDate": "2000.02.24",
+        "caseNum": "97헌마13",
+        "caseName": "상속세경정청구거부처분취소 등",
+        "caseCode": "",
+        "courtCode": "기타",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "후발적 사유에 의한 경정청구권의 청구기간은 어떻게 결정되나요?",
+        "output": "후발적 사유에 의한 조리상의 경정청구권은 상당한 기간 내에 행사되어야 하며, 이는 매 사안마다 법적 안정성 및 정의의 요청을 고려하여 합리적으로 결정됩니다.이에 청구인의 심판청구를 각하하였습니다.",
+        "originwordCnt": "4470",
+        "labelwordCnt": "25"
+    }
+}

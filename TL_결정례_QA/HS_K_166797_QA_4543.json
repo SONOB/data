@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "166797",
+        "finalDate": "2021.07.06",
+        "caseNum": "2021헌마508",
+        "caseName": "무혐의 결정 등 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "청구인이 동일한 내용으로 심판청구를 반복하는 것이 왜 허용되지 않나요?",
+        "output": "동일한 내용의 심판청구를 반복하는 것은 헌법재판소법 제39조의 일사부재리 원칙에 위배되기 때문에 허용되지 않습니다. 이전에 각하된 사유를 보완하지 않고 다시 청구하는 것은 부적법하기 때문입니다.",
+        "originwordCnt": "562",
+        "labelwordCnt": "23"
+    }
+}

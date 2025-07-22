@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "179903",
+        "finalDate": "2023.01.10",
+        "caseNum": "2023헌사1",
+        "caseName": "효력정지가처분신청",
+        "caseCode": "헌사",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "약식기소 결정 및 청구인 명의 계좌 압류 결정에 대한 효력정지를 구하는 가처분신청을 제기하였으나, 이미 같은 내용의 가처분신청이 각하된 바 있어 이번 신청은 신청권 남용에 해당합니다. 이에 따라 해당 신청은 부적법하다고 판단되어 각하되었습니다.",
+        "originwordCnt": "90",
+        "labelwordCnt": "32"
+    }
+}

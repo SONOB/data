@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "135195",
+        "finalDate": "1993.06.02",
+        "caseNum": "93헌마104",
+        "caseName": "신체의자유등침해 위헌확인",
+        "caseCode": "",
+        "courtCode": "기타",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "소송지휘나 재판진행에 관한 재판장의 명령에 대한 헌법소원심판청구는 왜 부적법한가요?",
+        "output": "소송지휘나 재판진행에 관한 재판장의 명령은 종국판결에 포함되며, 이에 대한 불복은 상소를 통해 해결해야 하므로, 헌법소원심판청구는 부적법합니다.이에 이 사건 심판청구를 모두 각하하였습니다.",
+        "originwordCnt": "525",
+        "labelwordCnt": "22"
+    }
+}

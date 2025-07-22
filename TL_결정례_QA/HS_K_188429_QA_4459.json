@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "188429",
+        "finalDate": "2024.01.30",
+        "caseNum": "2024헌마4",
+        "caseName": "기본권 침해 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법소원심판 청구인이 기본권 침해를 주장할 때 필요한 조건은 무엇인가요?",
+        "output": "헌법소원심판 청구인은 자신의 기본권에 대한 공권력주체의 제한 행위가 위헌적인 것임을 구체적으로 명확하게 주장하여야 하며, 막연하고 모호한 주장만을 하는 경우 그 헌법소원은 부적법하다고 판단됩니다.",
+        "originwordCnt": "183",
+        "labelwordCnt": "23"
+    }
+}

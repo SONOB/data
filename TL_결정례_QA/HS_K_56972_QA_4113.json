@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "56972",
+        "finalDate": "1992.10.30",
+        "caseNum": "92헌마227",
+        "caseName": "토지수용재결처분취소 등",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "헌법재판소가 심판청구를 각하한 이유는 무엇인가요?",
+        "output": "청구인이 변호사를 선임하지 않고 심판청구를 하였으며, 보정명령에도 불구하고 이를 보정하지 않았기 때문에 헌법재판소는 이 사건 심판청구를 각하하였습니다.",
+        "originwordCnt": "45",
+        "labelwordCnt": "17"
+    }
+}

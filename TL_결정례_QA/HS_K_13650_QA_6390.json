@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "13650",
+        "finalDate": "2010.05.25",
+        "caseNum": "2010헌아115",
+        "caseName": "재판취소(재심)",
+        "caseCode": "헌아",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 참조 법령을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "심판청구가 부적법한 이유는 무엇인가요?",
+        "output": "이 사건 심판청구는 헌법재판소법 제39조에 따른 일사부재리의 원칙에 위배되며, 또한 청구인이 주장한 사유가 민사소송법 제451조 제1항 각 호의 사유 중 헌법소원심판에 대한 재심의 성질상 허용되는 사유에 해당하지 않기 때문에 부적법합니다.",
+        "originwordCnt": "209",
+        "labelwordCnt": "30"
+    }
+}

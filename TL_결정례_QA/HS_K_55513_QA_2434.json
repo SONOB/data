@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "55513",
+        "finalDate": "1989.02.03",
+        "caseNum": "89헌마6",
+        "caseName": "검사의 공소권 행사에 관한 헌법소원",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "대리인 선임없이 헌법소원심판청구를 한 경우 어떤 결정이 내려지나요?",
+        "output": "헌법재판소법 제72조 제3항 제3호에 따르면 대리인의 선임 없이 청구된 경우 헌법재판소는 심판청구를 각하할 수 있으며, 보정명령을 내렸음에도 불구하고 청구인이 그 명령에 불응하였다면 각하결정을 하게 됩니다.",
+        "originwordCnt": "51",
+        "labelwordCnt": "25"
+    }
+}

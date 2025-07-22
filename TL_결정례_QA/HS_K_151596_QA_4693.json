@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "151596",
+        "finalDate": "2019.07.09",
+        "caseNum": "2019헌마599",
+        "caseName": "기본권 침해 위헌확인",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "민사재판 출정비용을 징수한 행위가 공권력 행사로 볼 수 있나요?",
+        "output": "민사재판 출정비용을 징수하는 행위는 사경제의 주체로서 행하는 사법상의 법률행위에 불과하여 헌법소원의 대상이 되는 공권력의 행사에 해당하지 않습니다. 그러므로 이 사건 심판청구는 각하합니다.",
+        "originwordCnt": "1317",
+        "labelwordCnt": "22"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "159019",
+        "finalDate": "2020.06.25",
+        "caseNum": "2019헌마192",
+        "caseName": "형법 제63조 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "이 사건에서 이중처벌금지원칙에 위배되지 않는 이유는 무엇인가요?",
+        "output": "형법 제63조에 따르면 집행유예 실효로 부활되는 본형이 동일한 사건에 대해 새로 부과되는 것이 아니라, 본래 집행유예에 내재된 효과가 발생한 것에 불과하므로, 이중처벌금지원칙에 위배되지 않습니다",
+        "originwordCnt": "1047",
+        "labelwordCnt": "24"
+    }
+}

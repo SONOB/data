@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "56132",
+        "finalDate": "1990.05.10",
+        "caseNum": "90헌마53",
+        "caseName": "불기소 처분에 대한 헌법소원",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "청구인의 헌법소원 심판청구가 각하된 이유는 무엇입니까?",
+        "output": "청구인의 헌법소원 심판청구는 대리인 선임 없이 이루어졌고, 보정명령에도 불구하고 이를 보정하지 않아 헌법재판소법 제25조 제3항에 따라 부적법한 청구로 각하되었습니다.",
+        "originwordCnt": "136",
+        "labelwordCnt": "19"
+    }
+}

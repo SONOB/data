@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "8434",
+        "finalDate": "2006.04.27",
+        "caseNum": "2005헌마904",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "헌법재판소가 심판청구를 기각한 근거는 무엇인가요?",
+        "output": "헌법재판소는 해당 사건 기록을 검토한 결과, 피청구인의 기소유예처분에 헌법위반이 없고 청구인들의 기본권이 침해되었다고 볼 수 없다고 판단하여 심판청구를 기각했습니다.",
+        "originwordCnt": "488",
+        "labelwordCnt": "19"
+    }
+}

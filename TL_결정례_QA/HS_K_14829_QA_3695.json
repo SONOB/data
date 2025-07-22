@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "14829",
+        "finalDate": "2011.01.18",
+        "caseNum": "2011헌마12",
+        "caseName": "재판취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "대법원 판결이 헌법소원의 예외적인 대상에 해당하지 않는 경우, 헌법재판소는 어떤 결정을 내리나요?",
+        "output": "대법원 판결이 헌법소원의 예외적인 대상에 해당하지 않는 경우, 헌법재판소는 헌법재판소법 제72조 제3항 제1호 후단에 따라 해당 심판청구를 부적법하다고 판단하고 이를 각하하기로 결정합니다.",
+        "originwordCnt": "204",
+        "labelwordCnt": "22"
+    }
+}

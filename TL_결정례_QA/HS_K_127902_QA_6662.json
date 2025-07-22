@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "127902",
+        "finalDate": "2009.02.17",
+        "caseNum": "2009헌아9",
+        "caseName": "재심불수리 위헌확인(재심)",
+        "caseCode": "",
+        "courtCode": "기타",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법재판소에서 청구인의 심판청구를 일사부재리 원칙에 따라 받아들이지 않은 이유는 무엇인가요?",
+        "output": "심판청구가 헌법재판소 결정에 대한 단순한 불복청구에 불과하여, 헌법재판소법 제39조의 일사부재리 원칙에 따라 청구인의 심판청구를 각하하기로 결정하였습니다.",
+        "originwordCnt": "554",
+        "labelwordCnt": "16"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "14810",
+        "finalDate": "2011.01.11",
+        "caseNum": "2010헌아331",
+        "caseName": "검찰청법 제10조 제3항 등 위헌확인(재심)",
+        "caseCode": "헌아",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "일사부재리 원칙에 위배되는 경우, 재심청구는 어떤 처분을 받게 되나요?",
+        "output": "일사부재리 원칙에 위배되는 재심청구는 부적법하므로 헌법재판소법 제72조 제3항 제4호에 따라 각하하기로 하여 관여 재판관 전원의 일치된 의견으로 주문과 같이 결정합니다.",
+        "originwordCnt": "129",
+        "labelwordCnt": "20"
+    }
+}

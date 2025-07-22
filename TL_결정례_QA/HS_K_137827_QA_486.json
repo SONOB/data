@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "137827",
+        "finalDate": "2009.07.28",
+        "caseNum": "2009헌마400",
+        "caseName": "재판취소",
+        "caseCode": "",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "법원의 재판을 대상으로 하는 헌법소원심판청구는 어떻게 처리되나요?",
+        "output": "법원의 재판을 대상으로 한 헌법소원심판청구는 헌법재판소법 제68조 제1항에 따라 원칙적으로 허용되지 않습니다. 이에 따라 이러한 청구는 부적법하다고 판단되며, 헌법재판소법 제72조 제3항 제1호에 의거하여 각하됩니다.",
+        "originwordCnt": "339",
+        "labelwordCnt": "24"
+    }
+}

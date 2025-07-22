@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "54712",
+        "finalDate": "2017.04.27",
+        "caseNum": "2016헌마1102",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌가",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "기소유예처분을 한 것에 대해 청구인은 평등권과 행복추구권 침해를 주장했으나 검사가 현저히 정의와 형평에 반하는 수사나 중대한 잘못을 한 것으로 보이지 않으며, 자의적 처분으로 볼 만한 자료도 없습니다. 따라서 청구인의 심판청구는 이유가 없어 기각하였습니다.",
+        "originwordCnt": "132",
+        "labelwordCnt": "33"
+    }
+}

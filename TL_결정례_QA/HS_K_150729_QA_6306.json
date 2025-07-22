@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "150729",
+        "finalDate": "2001.09.11",
+        "caseNum": "2001헌아16",
+        "caseName": "기소유예처분취소(재심)",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "헌법재판소 결정에 대한 재심은 어떠한 경우에 제한적으로 허용될 수 있나요?",
+        "output": "헌법재판소의 결정에 대한 재심은 재판부의 구성이 위법한 경우 등 절차상 중대하고도 명백한 위법이 있어서 재심을 허용하지 아니하면 현저히 정의에 반하는 경우에 한하여 제한적으로 허용될 수 있습니다.",
+        "originwordCnt": "218",
+        "labelwordCnt": "26"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "189565",
+        "finalDate": "2024.03.28",
+        "caseNum": "2020헌마1148",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "피청구인의 기소유예처분이 헌법재판소가 관여할 정도로 자의적인가요?",
+        "output": "피청구인의 기소유예처분은 헌법재판소가 관여할 정도의 자의적 처분으로 볼 자료가 없으며, 청구인의 기본권이 침해되었다고 인정할 수 없습니다. 따라서 이 사건 심판청구는 이유가 없으므로 기각되었습니다.",
+        "originwordCnt": "145",
+        "labelwordCnt": "23"
+    }
+}

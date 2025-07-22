@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "151690",
+        "finalDate": "1991.06.03",
+        "caseNum": "89헌마264",
+        "caseName": "광업권취소에 대한 헌법소원",
+        "caseCode": "헌가",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법소원 제기기간이 경과한 경우 심판청구는 어떻게 처리되나요?",
+        "output": "헌법재판소법 제69조 제1항에 따라 헌법소원은 그 사유가 있음을 안 날로부터 60일 이내, 그 사유가 있은 날로부터 180일 이내에 청구해야 하므로, 이 기간을 경과하여 제기된 심판청구는 부적법하여 각하됩니다.",
+        "originwordCnt": "415",
+        "labelwordCnt": "27"
+    }
+}

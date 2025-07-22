@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "172485",
+        "finalDate": "2022.03.29",
+        "caseNum": "2022헌사180",
+        "caseName": "결정경정신청",
+        "caseCode": "헌사",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "결정의 경정이란 무엇을 의미하나요?",
+        "output": "결정의 경정이란 결정서에 잘못된 계산이나 기재, 그 밖에 이와 비슷한 잘못이 있음이 분명한 때에 헌법재판소가 직권으로 또는 당사자의 신청에 따라 그 오류를 정정하는 것을 의미합니다. 이는 헌법재판소법 제40조와 민사소송법 제211조에 근거합니다",
+        "originwordCnt": "298",
+        "labelwordCnt": "31"
+    }
+}

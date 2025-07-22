@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "55616",
+        "finalDate": "1989.03.21",
+        "caseNum": "89헌마26",
+        "caseName": "고소사건의 진정처리에 관한 헌법소원",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "고소사건의 진정처리에 관한 헌법소원을 청구하였으나, 헌법재판소는 청구인이 보정명령을 받았음에도 변호사를 대리인으로 선임하지 아니한 채 해당 사건 심판청구를 유지하고 있고, 기록상 청구인이 변호사 자격이 있다고 볼 만한 자료도 없으므로 심판청구를 각하하기로 결정하였습니다.",
+        "originwordCnt": "114",
+        "labelwordCnt": "31"
+    }
+}

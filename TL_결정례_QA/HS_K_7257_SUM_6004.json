@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "7257",
+        "finalDate": "2004.09.23",
+        "caseNum": "2004헌마435",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "기소유예처분을 내린 사건에서, 청구인들은 해당 처분이 헌법상 보장된 평등권과 행복추구권을 침해했다고 주장했습니다. 그러나 기록을 검토한 결과, 기소유예처분에 헌법재판소가 개입할 만한 헌법 위반이 존재하지 않는다고 판단되었습니다. 따라서 청구인들의 심판청구는 이유가 없어 기각되었습니다.",
+        "originwordCnt": "489",
+        "labelwordCnt": "31"
+    }
+}

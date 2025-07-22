@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "29913",
+        "finalDate": "2013.10.01",
+        "caseNum": "2013헌마647",
+        "caseName": "재판취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "헌법재판소는 동일 사건에 대한 심판은 중복될 수 없으며, 이를 근거로 해당 심판청구는 일사부재리 원칙에 위배되어 부적법하다고 판단하였습니다. 따라서 이 사건 심판청구는 부적법하고, 그 흠결을 보정할 수 없으므로 헌법재판소법 제72조 제3항 제4호에 따라 각하하기로 결정하였습니다.",
+        "originwordCnt": "157",
+        "labelwordCnt": "34"
+    }
+}

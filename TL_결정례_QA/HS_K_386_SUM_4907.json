@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "386",
+        "finalDate": "2002.01.17",
+        "caseNum": "2001헌사550",
+        "caseName": "기피신청",
+        "caseCode": "헌사",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "헌법재판소는 신청인이 주장한 재판관 기피사유가 헌법재판소법 제24조 제1항 제5호에 해당하지 않으며, 재판관이 본안사건과 관련된 사건들에 관여했더라도 심판의 공정성을 기대하기 어렵다고 볼 수 없다고 판단하였습니다. 따라서 신청인의 기피신청은 이유가 없다고 보아 기각하였습니다.",
+        "originwordCnt": "205",
+        "labelwordCnt": "31"
+    }
+}

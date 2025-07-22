@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "135152",
+        "finalDate": "1993.05.13",
+        "caseNum": "92헌마8",
+        "caseName": "불기소처분에 대한 헌법소원",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "해당 불기소처분에 대한 헌법소원심판청구가 왜 부적법한가요?",
+        "output": "불기소처분은 검찰총장의 재기수사 명령으로 이미 효력을 잃었기 때문에 헌법소원심판청구의 대상이 소멸되었습니다. 따라서 이 불기소처분에 대한 헌법소원심판청구는 부적법하다고 판단되므로 각하합니다.",
+        "originwordCnt": "799",
+        "labelwordCnt": "19"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "49252",
+        "finalDate": "2016.03.08",
+        "caseNum": "2016헌마136",
+        "caseName": "진정사건 종결처분 취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "진정에 대한 공람종결처분은 법적 구속력이 없는 내부적 사건처리방식에 불과하여 헌법소원심판의 대상이 되는 공권력 행사로 볼 수 없으므로, 이를 대상으로 한 심판청구는 부적법합니다. 따라서 헌법재판소는 헌법재판소법 제72조 제3항 제4호에 따라 해당 심판청구를 각하하였습니다.",
+        "originwordCnt": "168",
+        "labelwordCnt": "32"
+    }
+}

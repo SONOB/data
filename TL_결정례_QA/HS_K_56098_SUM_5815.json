@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "56098",
+        "finalDate": "1990.03.12",
+        "caseNum": "90헌마34",
+        "caseName": "불기소처분에 대한 헌법소원",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "헌법재판소는 청구인이 검찰총장의 재항고 기각 결정 통지 이후 30일 이내에 헌법소원을 제기하지 않아, 심판청구가 청구기간을 경과한 부적법한 것이라고 판단했습니다. 이에 따라 헌법재판소법 제72조 제3항 제2호에 근거하여 이 사건 심판청구를 각하하기로 결정했습니다.",
+        "originwordCnt": "122",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "174373",
+        "finalDate": "2022.06.28",
+        "caseNum": "2022헌마811",
+        "caseName": "공소취소 부작위 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "헌법소원심판은 기본권 침해를 주장할 때 구체적인 공권력의 행사 또는 불행사로 인한 침해 가능성을 명확히 주장해야 합니다. 그러나 청구인은 자신의 기본권 침해 가능성에 대해 구체적인 주장을 하지 않았기 때문에, 이 사건 심판청구는 부적법하다고 판단되어 헌법재판소법에 따라 각하하였습니다.",
+        "originwordCnt": "97",
+        "labelwordCnt": "36"
+    }
+}

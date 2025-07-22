@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "142839",
+        "finalDate": "1994.01.13",
+        "caseNum": "93헌마290",
+        "caseName": "공소권불행사 위헌확인 등",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "왜 이 사건 심판청구는 각하되었나요?",
+        "output": "이 사건 심판청구는 청구인들이 변호사를 대리인으로 선임하지 않은 상태에서 심판청구를 제기하였고, 재판부의 보정명령에도 불구하고 대리인을 선임하지 않았기 때문에, 헌법재판소법 제72조 제3항 제3호에 따라 각하되었습니다.",
+        "originwordCnt": "59",
+        "labelwordCnt": "24"
+    }
+}

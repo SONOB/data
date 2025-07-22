@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "57054",
+        "finalDate": "1993.03.10",
+        "caseNum": "93헌마20",
+        "caseName": "불법체포 등 위헌확인",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "청구인의 심판청구가 각하된 이유는 무엇인가요?",
+        "output": "청구인이 변호사를 대리인으로 선임하지 않았고, 보정명령에도 불구하고 보정기간 내에 이를 보정하지 않았기 때문에 심판청구가 각하되었습니다.",
+        "originwordCnt": "62",
+        "labelwordCnt": "15"
+    }
+}

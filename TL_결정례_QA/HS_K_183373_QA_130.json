@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "183373",
+        "finalDate": "2023.06.07",
+        "caseNum": "2023헌사492",
+        "caseName": "효력정지가처분신청",
+        "caseCode": "헌사",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘재판소 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "효력정지가처분 신청이 각하된 이유는 무엇인가요?",
+        "output": "이미 각하된 동일한 내용의 효력정지가처분 신청을 계속적이고 반복적으로 제기함으로써 신청권을 남용하였기 때문에 신청은 부적법하다고 판단되어  각하 결정이 내려졌습니다.",
+        "originwordCnt": "90",
+        "labelwordCnt": "19"
+    }
+}

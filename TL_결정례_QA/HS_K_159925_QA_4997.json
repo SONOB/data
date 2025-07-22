@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "159925",
+        "finalDate": "2020.08.13",
+        "caseNum": "2020헌마1054",
+        "caseName": "교도소 내 부당처우행위 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘재판소 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "교도소 내 부당한 처우행위에 대한 위헌 확인 청구 결과는 무엇인가요?",
+        "output": "교도소 내 부당한 처우행위와 관련하여 제기된 위헌 확인 청구에 대해 법원은 이 사건 심판청구를 각하하였습니다.",
+        "originwordCnt": "188",
+        "labelwordCnt": "15"
+    }
+}

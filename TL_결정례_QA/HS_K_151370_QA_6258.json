@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "151370",
+        "finalDate": "2019.06.18",
+        "caseNum": "2019헌마594",
+        "caseName": "형사소송법 중 서면 부분 위헌확인 등",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "헌법소원심판 청구인이 기본권 침해를 주장할 때 요구되는 요건은 무엇인가요?",
+        "output": "헌법소원심판의 청구인은 자신의 기본권이 공권력 주체에 의해 침해되었음을 구체적이고 명확하게 주장해야 하며, 막연하고 모호한 주장만을 하는 경우 그 심판청구는 부적법하게 됩니다.",
+        "originwordCnt": "416",
+        "labelwordCnt": "21"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "134919",
+        "finalDate": "1989.04.15",
+        "caseNum": "89헌마51",
+        "caseName": "검사의 공소권행사에 관한 헌법소원",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘재판소 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검사의 불기소처분에 대한 헌법소원은 며칠 이내에 청구해야 할까요?",
+        "output": "검사의 불기소처분에 대한 헌법소원은 검찰청법에서 정한 바에 따라, 재항고 기각결정의 통지를 받은 날로부터 30일 이내에 청구해야 합니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "17"
+    }
+}

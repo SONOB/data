@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "175779",
+        "finalDate": "2003.03.18",
+        "caseNum": "2003헌마184",
+        "caseName": "구금일수 불산입 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 참조 법령을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "법원의 재판을 대상으로 한 헌법소원심판청구는 적법한가요?",
+        "output": "법원의 재판을 대상으로 한 헌법소원심판청구는 헌법재판소법 제68조 제1항에 따라 심판대상에서 제외되므로 부적법합니다. 따라서 법원의 판결을 심판 대상으로 하는 헌법소원은 받아들여지지 않습니다.",
+        "originwordCnt": "117",
+        "labelwordCnt": "21"
+    }
+}

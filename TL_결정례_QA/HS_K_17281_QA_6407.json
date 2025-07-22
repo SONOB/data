@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "17281",
+        "finalDate": "2011.11.01",
+        "caseNum": "2011헌마588",
+        "caseName": "형법 제35조 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법소원의 청구기간이 도과된 경우 헌법재판소는 어떻게 판단하나요?",
+        "output": "헌법소원의 청구기간이 도과된 경우 헌법재판소는 헌법재판소법 제72조 제3항 제2호에 따라 해당 심판청구를 부적법하다고 판단하여 각하하는 결정을 내립니다.",
+        "originwordCnt": "261",
+        "labelwordCnt": "17"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "52775",
+        "finalDate": "2016.11.15",
+        "caseNum": "2016헌마952",
+        "caseName": "재판취소 등",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법재판소가 이미 심판을 거친 동일한 사건에 대해 다시 심판청구를 하는 것은 왜 허용되지 않나요?",
+        "output": "헌법재판소가 이미 심판을 거친 동일한 사건에 대해 다시 심판청구를 하는 것은 일사부재리의 원칙에 위반되며, 법적 안정성과 절차의 신뢰성을 저해할 수 있기 때문에 허용되지 않으며, 부적법합니다.",
+        "originwordCnt": "298",
+        "labelwordCnt": "25"
+    }
+}

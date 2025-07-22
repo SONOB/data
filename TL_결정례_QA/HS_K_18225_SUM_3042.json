@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "18225",
+        "finalDate": "2011.12.27",
+        "caseNum": "2011헌마773",
+        "caseName": "재판취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "대법원 결정에 대해 헌법소원을 제기하였으나, 헌법재판소법 제68조 제1항에 따라 법원의 재판을 대상으로 하는 헌법소원은 원칙적으로 허용되지 않습니다. 따라서 헌법재판소는 청구인의 심판청구가 부적법하다고 판단하여 헌법재판소법 제72조 제3항 제1호에 따라 이를 각하하였습니다.",
+        "originwordCnt": "106",
+        "labelwordCnt": "30"
+    }
+}

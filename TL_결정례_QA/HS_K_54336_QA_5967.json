@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "54336",
+        "finalDate": "2017.03.21",
+        "caseNum": "2017헌마239",
+        "caseName": "기본권 침해 위헌확인",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "국가배상청구권의 소멸시효와 관련하여 어떤 점이 문제가 되었나요?",
+        "output": "청구인은 국가배상청구권의 소멸시효가 완성되었다는 점을 문제 삼아 헌법소원을 청구하였으나, 청구기간을 도과하여 부적법하다는 이유로 각하되었습니다. 따라서 이 사건 심판청구는 각하되었습니다.",
+        "originwordCnt": "269",
+        "labelwordCnt": "19"
+    }
+}

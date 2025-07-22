@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "146327",
+        "finalDate": "2018.03.29",
+        "caseNum": "2017헌사881",
+        "caseName": "제척 및 기피신청",
+        "caseCode": "헌가",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "제척 및 기피 신청에 대해 심사한 결과, 신청인이 제시한 사유는 헌법재판소법 제24조에 명시된 제척 및 기피 사유에 해당하지 않는 것으로 확인되었습니다. 따라서 신청인은 제척 및 기피 신청을 이유 없이 기각되었습니다.",
+        "originwordCnt": "72",
+        "labelwordCnt": "30"
+    }
+}

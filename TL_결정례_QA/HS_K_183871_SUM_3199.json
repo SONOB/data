@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "183871",
+        "finalDate": "2023.07.04",
+        "caseNum": "2023헌마689",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "변호사를 대리인으로 선임하지 않은 채 심판청구를 진행했으며, 헌법재판소의 보정명령을 받고도 보정기간 내에 대리인을 선임하거나 국선대리인선임신청서를 제출하지 않았습니다. 이에 헌법재판소는 헌법재판소법 제25조 제3항과 제72조 제3항 제3호에 따라 이 사건 심판청구를 각하했습니다.",
+        "originwordCnt": "79",
+        "labelwordCnt": "30"
+    }
+}

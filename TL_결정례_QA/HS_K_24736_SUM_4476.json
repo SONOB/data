@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "24736",
+        "finalDate": "2013.07.23",
+        "caseNum": "2013헌마472",
+        "caseName": "공권력행사 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "불기소처분에 대한 헌법소원심판을 청구하였으나, 헌법재판소는 이미 동일한 사건에 대해 심판을 한 바 있어 이를 다시 심판할 수 없다고 판단하였습니다. 헌법재판소법 제39조에 따라 일사부재리 원칙에 위배되어 부적법하다고 보아, 헌법재판소는 청구인의 심판청구를 각하하였습니다.",
+        "originwordCnt": "157",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "181791",
+        "finalDate": "2023.03.23",
+        "caseNum": "2022헌마510",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "성폭력범죄로 기소유예처분을 받은 후 그 처분이 기본권을 침해한다고 주장하며 헌법소원을 제기했으나, 검찰이 해당 사건을 재기해 불기소 처분을 내림에 따라 원래의 기소유예처분은 효력을 상실했습니다. 따라서 기소유예처분의 취소를 구하는 청구는 부적법하여 각하되었습니다.",
+        "originwordCnt": "225",
+        "labelwordCnt": "30"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "148902",
+        "finalDate": "2001.02.20",
+        "caseNum": "2001헌마84",
+        "caseName": "영장실질심사불이행 등 위헌확인",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘재판소 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "청구인의 헌법소원심판 청구가 왜 각하되었나요?",
+        "output": "청구인의 헌법소원심판 청구는 법원의 재판을 대상으로 하였으나, 이는 헌법소원심판의 대상이 되는 예외적인 재판에 해당하지 않아 부적법하므로 각하되었습니다.",
+        "originwordCnt": "292",
+        "labelwordCnt": "17"
+    }
+}

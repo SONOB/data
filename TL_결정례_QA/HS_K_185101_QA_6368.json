@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "185101",
+        "finalDate": "2023.08.29",
+        "caseNum": "2023헌마975",
+        "caseName": "헌법재판소 결정 취소 등",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법소원심판을 제기하려면 어떤 조건을 충족해야 하나요?",
+        "output": "헌법소원심판 청구인은 헌법재판소법 제68조 제1항에 따라 기본권을 침해받은 자로서, 공권력의 행사 또는 불행사를 특정하고 그로 인해 기본권이 침해될 가능성을 구체적으로 명확하게 주장해야 합니다.",
+        "originwordCnt": "101",
+        "labelwordCnt": "23"
+    }
+}

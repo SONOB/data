@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "151335",
+        "finalDate": "2019.06.17",
+        "caseNum": "2019헌마584",
+        "caseName": "기본권 침해 위헌확인",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "헌법소원심판청구가 각하된 이유는 무엇인가요?",
+        "output": "청구인이 주장한 내용이 구체적이지 않고 막연하여, 청구인의 기본권이 어떻게 침해되었는지 확인할 수 없었으므로, 이 사건 심판청구는 부적법하여 각하되었습니다.",
+        "originwordCnt": "165",
+        "labelwordCnt": "18"
+    }
+}

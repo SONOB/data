@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "163789",
+        "finalDate": "2021.02.23",
+        "caseNum": "2021헌마189",
+        "caseName": "기소중지처분취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "기소중지처분으로 인해 자신의 기본권이 침해되었다며 헌법소원심판을 청구했습니다. 그러나 이미 기소가 이루어져 더 이상 권리보호의 필요성이 없다고 판단되었고, 이 사건이 헌법적으로 중요한 의미를 가지는 사항도 아니라고 보았습니다. 이에 따라 청구는 부적법하여 각하되었습니다.",
+        "originwordCnt": "230",
+        "labelwordCnt": "31"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "183603",
+        "finalDate": "2023.06.27",
+        "caseNum": "2023헌사657",
+        "caseName": "효력정지가처분신청",
+        "caseCode": "헌사",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "서울서부지방검찰청의 약식기소 결정과 춘천지방검찰청 강릉지청의 농협계좌 압류에 대한 효력정지를 구하는 가처분신청을 하였으나, 이전에도 동일한 내용의 가처분신청이 이미 각하된 바 있어, 이번 신청은 신청권을 남용한 것으로 판단되었습니다. 따라서 이 사건 신청은 부적법하여 각하되었습니다.",
+        "originwordCnt": "90",
+        "labelwordCnt": "32"
+    }
+}

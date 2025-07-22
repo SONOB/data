@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "146328",
+        "finalDate": "2018.03.29",
+        "caseNum": "2018헌사4",
+        "caseName": "효력정지가처분신청",
+        "caseCode": "헌가",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "효력정지가처분 신청이 기각된 이유는 무엇인가요?",
+        "output": "효력정지가처분 신청은 법적으로 인정될 만한 이유가 없다고 판단되었기 때문에 관여 재판관 전원의 일치된 의견으로 기각되었습니다.",
+        "originwordCnt": "57",
+        "labelwordCnt": "15"
+    }
+}

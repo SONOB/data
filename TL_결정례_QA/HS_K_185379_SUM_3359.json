@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "185379",
+        "finalDate": "2023.09.12",
+        "caseNum": "2023헌마1005",
+        "caseName": "기본권 침해 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "헌법재판소는 기본권 침해에 대한 헌법소원심판 청구는 구체적인 주장을 포함해야 한다고 판단하고 있습니다. 청구인이 자신의 기본권 침해 가능성을 확인할 수 있을 만큼 구체적인 주장을 하지 않고 막연한 주장하였기 때문에, 헌법재판소법 제72조 제3항 제4호에 따라 각하하였습니다.",
+        "originwordCnt": "114",
+        "labelwordCnt": "34"
+    }
+}

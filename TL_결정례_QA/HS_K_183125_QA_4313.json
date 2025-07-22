@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "183125",
+        "finalDate": "2023.06.01",
+        "caseNum": "2023헌마707",
+        "caseName": "기본권 침해 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법소원심판을 청구할 때 어떤 조건을 충족해야 하나요?",
+        "output": "헌법소원심판을 청구할 때는 공권력의 행사 또는 불행사로 인해 헌법상 보장된 기본권이 침해되었음을 구체적이고 명확하게 주장해야 하며, 그렇지 않으면 심판청구는 부적법하게 됩니다. 이에 이 사건 심판청구를 각하하였습니다.",
+        "originwordCnt": "103",
+        "labelwordCnt": "26"
+    }
+}

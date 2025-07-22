@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "168007",
+        "finalDate": "2021.08.24",
+        "caseNum": "2021헌사760",
+        "caseName": "가처분신청",
+        "caseCode": "헌사",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘재판소 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "가처분신청이 각하된 이유는 무엇인가요?",
+        "output": "가처분신청이 각하된 이유는 본안사건이 존재하지 않고, 신청인이 장차 청구할 본안사건의 심판청구 내용 등을 전혀 특정하지 않았기 때문입니다. 이에 따라 부적법하다고 판단되어 각하 결정을 내렸습니다.",
+        "originwordCnt": "113",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "148064",
+        "finalDate": "2000.06.14",
+        "caseNum": "2000헌마317",
+        "caseName": "배상금지급지연행위 위헌 확인",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "왜 청구인의 심판청구는 각하되었나요?",
+        "output": "청구인의 심판청구는 국방부장관에게 배상금을 지급할 작위의무가 헌법상이나 법률상으로 도출되지 않으므로, 작위의무가 없는 공권력의 불행사에 대한 부적법한 헌법소원으로 판단되어 각하되었습니다.",
+        "originwordCnt": "638",
+        "labelwordCnt": "19"
+    }
+}

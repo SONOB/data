@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "171497",
+        "finalDate": "2022.01.27",
+        "caseNum": "2017헌바528",
+        "caseName": "형법 제299조 위헌소원",
+        "caseCode": "헌바",
+        "courtCode": "전원재판부",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "항거불능의 의미는 무엇이며, 이는 어떤 기준에 따라 해석되나요?",
+        "output": "항거불능의 상태란 가해자가 성적인 침해행위를 할 때 피해자의 판단능력과 대응ㆍ조절능력이 결여되어 별다른 유형력의 행사가 불필요한 상태를 말하며, 이는 형법 제299조의 심신상실에 준하여 해석되어야 합니다.",
+        "originwordCnt": "95",
+        "labelwordCnt": "24"
+    }
+}

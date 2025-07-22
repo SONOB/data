@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "56273",
+        "finalDate": "1990.08.24",
+        "caseNum": "90헌마116",
+        "caseName": "불기소처분에 대한 헌법소원",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "불기소처분에 대한 헌법소원 청구시 변호사를 선임하지 않으면 어떤 결정을 내리나요?",
+        "output": "헌법소원심판을 청구하는 경우에는 변호사인 대리인을 선임하여야 합니다. 대리인을 선임하라는 보정명령에도 불응하게 되면 헌법재판소법 제72조 제3항 제3호에 따라 각하결정을 합니다.",
+        "originwordCnt": "47",
+        "labelwordCnt": "19"
+    }
+}

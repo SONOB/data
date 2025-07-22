@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "20667",
+        "finalDate": "2012.09.04",
+        "caseNum": "2012헌마699",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "청구인들이 기소유예처분에 대해 헌법소원을 제기했으나 각하된 이유는 무엇인가요?",
+        "output": "청구인들이 기소유예처분에 대해 헌법소원을 제기한 것은 청구기간을 넘긴 후에 이루어졌기 때문에, 헌법재판소법 제69조 제1항 본문에 따라 청구기간을 준수하지 못하여 각하되었습니다.",
+        "originwordCnt": "236",
+        "labelwordCnt": "20"
+    }
+}

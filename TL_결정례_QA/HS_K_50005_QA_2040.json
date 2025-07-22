@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "50005",
+        "finalDate": "2016.04.26",
+        "caseNum": "2016헌마316",
+        "caseName": "공권력행사 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법소원의 심판청구는 거실작업 지정행위로 인한 기본권 침해를 알게 된 날로부터 언제까지 제기해야 하나요?",
+        "output": "헌법재판소법 제69조 제1항에 따르면 헌법소원의 심판은 그 사유가 있음을 안 날부터 90일 이내에, 그 사유가 있은 날부터 1년 이내에 청구하여야 합니다.",
+        "originwordCnt": "152",
+        "labelwordCnt": "21"
+    }
+}

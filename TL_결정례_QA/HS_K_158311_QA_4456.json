@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "158311",
+        "finalDate": "2020.05.26",
+        "caseNum": "2020헌마724",
+        "caseName": "형법 부칙 제2항 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "청구인이 제기한 헌법소원심판이 각하된 이유는 무엇인가요?",
+        "output": "청구인이 제기한 헌법소원심판은 헌법재판소법에 따라 법령 시행 후 일정 기간 내에 청구해야 하는데, 청구인은 청구기간을 도과하여 심판청구를 제기했기 때문에 부적법하여 각하되었습니다.",
+        "originwordCnt": "455",
+        "labelwordCnt": "21"
+    }
+}

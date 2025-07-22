@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "18392",
+        "finalDate": "2012.01.04",
+        "caseNum": "2011헌아241",
+        "caseName": "재판취소 등(재심)",
+        "caseCode": "헌아",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "헌법재판소 결정에 대한 재심을 청구하였습니다. 헌법재판소법 제40조에 의하여 준용되는 민사소송법 제451조 제1항 각 호의 재심사유 중 헌법소원심판에 대한 재심의 성질상 허용되는 사유에 해당하지 않아 헌법재판소는 이 심판청구를 부적법하다고 판단하여 각하하였습니다.",
+        "originwordCnt": "376",
+        "labelwordCnt": "30"
+    }
+}

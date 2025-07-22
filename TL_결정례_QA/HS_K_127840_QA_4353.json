@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "127840",
+        "finalDate": "2009.02.17",
+        "caseNum": "2009헌마86",
+        "caseName": "재정신청기각결정취소",
+        "caseCode": "",
+        "courtCode": "기타",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "심판청구가 각하된 이유가 무엇인가요?",
+        "output": "청구인의 심판청구는 법원의 재판을 대상으로 한 것이므로, 헌법재판소법 제68조 제1항에 따라 법원의 재판을 대상으로 하는 헌법소원심판청구는 원칙적으로 허용되지 않기 때문에 부적법하여 각하되었습니다.",
+        "originwordCnt": "564",
+        "labelwordCnt": "22"
+    }
+}

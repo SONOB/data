@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "39694",
+        "finalDate": "2014.09.02",
+        "caseNum": "2014헌바361",
+        "caseName": "형법 제123조 위헌소원",
+        "caseCode": "헌바",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "도로교통법 위반 사건의 피고인으로서 형법 제123조가 위헌이라고 주장하며 헌법소원심판을 청구하였으나, 해당 조항은 당해 사건에 적용되지 않아 재판의 전제성이 인정되지 않았습니다. 따라서 부적법하다고 판단되어, 헌법재판소법 제72조 제3항 제4호에 따라 이를 각하하였습니다.",
+        "originwordCnt": "228",
+        "labelwordCnt": "30"
+    }
+}

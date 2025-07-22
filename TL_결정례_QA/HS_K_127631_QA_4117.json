@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "127631",
+        "finalDate": "2009.02.26",
+        "caseNum": "2008헌마684",
+        "caseName": "기소유예처분취소",
+        "caseCode": "",
+        "courtCode": "기타",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "기소유예의 불기소처분이 청구인의 기본권을 침해했다고 볼 수 없는 이유는 무엇인가요?",
+        "output": "피청구인의 불기소처분이 헌법재판소가 관여할 정도의 자의적인 처분으로 인정될 자료가 없으므로, 청구인의 기본권을 침해했다고 볼 수 없습니다. 이 사건 심판청구를 기각하였습니다.",
+        "originwordCnt": "1538",
+        "labelwordCnt": "20"
+    }
+}

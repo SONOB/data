@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "151692",
+        "finalDate": "1991.07.08",
+        "caseNum": "89헌마181",
+        "caseName": "수사기관의 기본권 침해에 대한 헌법소원",
+        "caseCode": "헌가",
+        "courtCode": "전원재판부",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘재판소 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "사전구제절차에서 이미 취소된 처분에 대해 다시 헌법소원을 청구할 경우, 권리보호의 이익이 존재하나요?",
+        "output": "이미 법원의 준항고절차를 통해 취소된 접견불허처분에 대해 다시 헌법소원을 청구하는 것은 권리보호의 이익이 없다고 봅니다.",
+        "originwordCnt": "541",
+        "labelwordCnt": "15"
+    }
+}

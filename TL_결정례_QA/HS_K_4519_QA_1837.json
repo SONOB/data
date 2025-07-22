@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "4519",
+        "finalDate": "1991.03.11",
+        "caseNum": "90헌마39",
+        "caseName": "불기소처분 에 대한 헌법소원",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "범죄 피해자가 아닌 청구인의 심판청구는 왜 각하되었습니까?",
+        "output": "범죄 피해자가 아닌 청구인의 심판청구 부분은 헌법재판소법 제68조 제1항에 따른 '헌법상 보장된 기본권을 침해받은 자'로서 자기관련성이 인정되지 않았기 때문에 각하되었습니다.",
+        "originwordCnt": "1223",
+        "labelwordCnt": "20"
+    }
+}

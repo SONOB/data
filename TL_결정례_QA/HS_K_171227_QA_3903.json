@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "171227",
+        "finalDate": "2022.01.18",
+        "caseNum": "2021헌마1582",
+        "caseName": "신고 불수리 등 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법소원심판을 청구할 수 있는 기간은 어떻게 규정되어 있나요?",
+        "output": "헌법재판소법 제69조 제1항에 따르면 헌법소원심판은 기본권 침해의 사유가 있음을 안 날부터 90일 이내에, 그 사유가 있는 날부터 1년 이내에 청구하여야 하며, 이 기간을 초과하면 청구는 부적법하게 됩니다.",
+        "originwordCnt": "241",
+        "labelwordCnt": "27"
+    }
+}

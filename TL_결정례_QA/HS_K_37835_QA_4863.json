@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "37835",
+        "finalDate": "2014.06.24",
+        "caseNum": "2014헌아146",
+        "caseName": "형사소송법 제326조 등 위헌확인(재심)",
+        "caseCode": "헌아",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "헌법재판 청구를 남용했을때는 어떻게 판단합니까?",
+        "output": "헌법재판소는 동일한 사안에 대해 이미 선고된 결정에 대해 적법한 재심사유 없이 계속적으로 불복하는 것은 헌법소원심판청구권의 남용에 해당한다고 보아 심판청구의 각하를 결정합니다.",
+        "originwordCnt": "145",
+        "labelwordCnt": "21"
+    }
+}

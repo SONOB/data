@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "19865",
+        "finalDate": "2012.06.05",
+        "caseNum": "2012헌마368",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘재판소 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "기소유예처분취소 청구는 왜 각하되었나요?",
+        "output": "헌법재판소는 청구인이 변호사를 대리인으로 선임하지 않고 심판청구를 한 상태에서, 보정명령을 받았음에도 불구하고 보정기간 내에 이를 이행하지 않았기 때문에 심판청구를 각하했습니다.",
+        "originwordCnt": "104",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "54391",
+        "finalDate": "2017.03.21",
+        "caseNum": "2017헌아103",
+        "caseName": "행정부작위 위헌확인(재심)",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "청구인이 헌법재판소의 결정에 대해 적법한 재심사유를 제시하지 않고 반복적으로 불복하여 헌법재판소는 이를 헌법소원심판 청구권의 남용에 해당한다고 판단하였습니다. 헌법재판소는 이 사건 심판청구가 부적법하다고 보아 헌법재판소법 제72조 제3항 제4호에 따라 이를 각하하였습니다.",
+        "originwordCnt": "72",
+        "labelwordCnt": "30"
+    }
+}

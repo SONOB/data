@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "175329",
+        "finalDate": "2003.12.23",
+        "caseNum": "2003헌아60",
+        "caseName": "재판 등 취소(재심)",
+        "caseCode": "헌아",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법재판소의 결정에 대해 불복신청이 허용되지 않는 이유는 무엇인가요?",
+        "output": "헌법재판소의 결정에 대하여는 원칙적으로 불복신청이 허용되지 않으며, 이는 헌법재판소법 제39조에 따라 이미 심판을 거친 동일한 사건에 대해 다시 심판할 수 없기 때문입니다.",
+        "originwordCnt": "332",
+        "labelwordCnt": "22"
+    }
+}

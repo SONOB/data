@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "154547",
+        "finalDate": "2019.12.27",
+        "caseNum": "2017헌가18",
+        "caseName": "형법 제356조 등 위헌제청",
+        "caseCode": "헌가",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "근로자의 직업수행의 자유를 과도하게 제한하여 헌법에 위반된다고 볼 수 있습니까?",
+        "output": "형법 제356조는 영업상 주요자산에 해당하는 정보를 유출한 행위를 처벌하더라도 과잉금지원칙을 위반하여 근로자의 직업수행의 자유를 과도하게 제한하지 않으므로 헌법에 위반되지 않습니다.",
+        "originwordCnt": "1387",
+        "labelwordCnt": "20"
+    }
+}

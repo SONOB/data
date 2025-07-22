@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "147587",
+        "finalDate": "2018.06.28",
+        "caseNum": "2018헌마59",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌가",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "검찰의 기소유예처분이 취소되지 않은 이유는 무엇인가요?",
+        "output": "검찰의 기소유예처분은 헌법해석과 법률적용, 증거판단 등에 중대한 잘못이 있었다고 인정되지 않으며, 자의적 처분이라고 볼 자료도 없기 때문에 취소되지 않았습니다.",
+        "originwordCnt": "121",
+        "labelwordCnt": "19"
+    }
+}

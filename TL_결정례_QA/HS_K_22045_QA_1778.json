@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "22045",
+        "finalDate": "2012.12.24",
+        "caseNum": "2012헌마978",
+        "caseName": "구속영장청구 등 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘재판소 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "검사의 구속영장 청구가 헌법소원심판의 대상이 될 수 있습니까?",
+        "output": "검사의 구속영장 청구는 구속 전 피의자 심문절차나 구속적부심사 청구 등 형사재판절차에서 판단될 수 있는 문제로, 이와 독립하여 헌법소원심판의 대상이 될 수 없습니다.",
+        "originwordCnt": "131",
+        "labelwordCnt": "22"
+    }
+}

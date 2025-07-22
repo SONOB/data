@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "19024",
+        "finalDate": "2012.03.13",
+        "caseNum": "2012헌바53",
+        "caseName": "국가보안법 제7조 제1항 등 위헌소원",
+        "caseCode": "헌바",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "변호사를 대리인으로 선임하지 않은 경우, 헌법재판소는 어떤 결정을 내리나요?",
+        "output": "변호사를 대리인으로 선임하지 않은 경우, 헌법재판소법 제25조 제3항과 제72조 제3항 제3호에 따라 보정명령을 받고도 보정하지 않으면 심판청구를 각하하는 결정을 내립니다.",
+        "originwordCnt": "91",
+        "labelwordCnt": "20"
+    }
+}

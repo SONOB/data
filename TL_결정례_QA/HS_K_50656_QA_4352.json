@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "50656",
+        "finalDate": "2016.07.19",
+        "caseNum": "2016헌마500",
+        "caseName": "기본권 침해 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "심판청구가 각하된 이유가 무엇인가요?",
+        "output": "청구인은 변호사를 대리인으로 선임하지 않은 상태로 심판청구를 했고, 보정명령을 받고도 보정기간 내에 변호사를 선임하지 않았기 때문에, 헌법재판소법 제25조 제3항과 제72조 제3항 제3호에 따라 심판청구가 각하되었습니다.",
+        "originwordCnt": "64",
+        "labelwordCnt": "25"
+    }
+}

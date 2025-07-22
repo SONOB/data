@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "168003",
+        "finalDate": "2021.08.24",
+        "caseNum": "2021헌사758",
+        "caseName": "가처분신청",
+        "caseCode": "헌사",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "가처분신청 사건에서 신청인은 본안사건이 존재하지 않으며, 장차 청구할 본안사건의 심판청구 내용도 전혀 특정하지 않았습니다. 따라서 신청이 적법하게 유지될 수 없다는 이유로, 이 사건 신청은 부적법한 것으로 판단됩니다. 이에 따라 신청을 각하하였습니다.",
+        "originwordCnt": "113",
+        "labelwordCnt": "31"
+    }
+}

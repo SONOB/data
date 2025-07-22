@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "155493",
+        "finalDate": "2020.02.11",
+        "caseNum": "2020헌마117",
+        "caseName": "징벌처분 취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "금치 15일 처분의 집행과 관련하여 조사기간을 제외한 집행, 신문 및 도서 열람 금지 등의 행위를 다투었으나, 이 사건 심판청구는 헌법재판소법 제72조 제3항 제2호에 따른 청구기간을 도과한 것으로 판단됩니다. 따라서 청구인의 심판청구는 부적법하며, 이에 따라 헌법재판소는 이를 각하하였습니다.",
+        "originwordCnt": "98",
+        "labelwordCnt": "37"
+    }
+}

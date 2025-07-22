@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "49614",
+        "finalDate": "2016.04.05",
+        "caseNum": "2016헌마237",
+        "caseName": "기본권 침해 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "헌법소원이 어떤 경우에 받아들여지지 않았나요?",
+        "output": "헌법재판소는 청구인이 자신의 기본권에 대한 침해행위를 구체적이고 명확하게 주장하지 않고 막연하고 모호한 주장만을 하는 경우, 헌법소원을 부적법하다고 판단하였습니다.",
+        "originwordCnt": "108",
+        "labelwordCnt": "18"
+    }
+}

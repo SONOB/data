@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "11106",
+        "finalDate": "2002.11.28",
+        "caseNum": "2001헌마861",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "청구인들의 헌법소원심판 청구가 기각된 이유는 무엇인가요?",
+        "output": "청구인들의 헌법소원심판 청구는 기소유예처분이 자의적인 검찰권 행사라고 볼 만한 자료가 없고, 헌법상 기본권이 침해되었다고 인정할 수 없으므로 기각되었습니다.",
+        "originwordCnt": "379",
+        "labelwordCnt": "18"
+    }
+}

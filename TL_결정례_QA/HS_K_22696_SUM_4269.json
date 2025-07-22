@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "22696",
+        "finalDate": "2013.02.28",
+        "caseNum": "2012헌마163",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "폭행죄에 대한 검사의 기소유예처분이 헌법상 청구인의 평등권을 침해했다고 주장한 사건에서, 헌법재판소는 해당 처분이 헌법에 위배되거나 중대한 잘못이 있었다고 볼 수 없다고 판단했습니다. 따라서, 청구인의 심판청구는 이유가 없다고 보고 기각하기로 하였습니다.",
+        "originwordCnt": "121",
+        "labelwordCnt": "30"
+    }
+}

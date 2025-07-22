@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "23704",
+        "finalDate": "2013.05.14",
+        "caseNum": "2013헌마230",
+        "caseName": "재판취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "헌법재판소는 청구인이 서울남부지방법원의 판결 및 항소장 각하명령에 대해 헌법소원심판을 청구한 사건에서, 원칙적으로 법원의 재판을 대상으로 하는 헌법소원심판청구는 허용되지 않는다는 이유로 헌법재판소법 제68조 제1항과 제72조 제3항 제1호 후단에 따라 이 사건 심판청구를 각하하였습니다.",
+        "originwordCnt": "79",
+        "labelwordCnt": "32"
+    }
+}

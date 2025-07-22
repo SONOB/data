@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "14132",
+        "finalDate": "2010.08.17",
+        "caseNum": "2010헌마487",
+        "caseName": "재판취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "법원의 재판을 대상으로 한 헌법소원심판청구는 헌법재판소법 제68조 제1항에 따라 원칙적으로 허용되지 않습니다. 이 사건 심판청구는 대법원의 판결을 대상으로 하였으므로 부적법한 청구에 해당합니다. 따라서 헌법재판소는 헌법재판소법 제72조 제3항 제1호 후단의 규정에 따라 이를 각하합니다.",
+        "originwordCnt": "133",
+        "labelwordCnt": "33"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "19806",
+        "finalDate": "2012.05.31",
+        "caseNum": "2011헌마527",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "청구인의 주장에 대한 피청구인의 반응은 무엇이었나요?",
+        "output": "피청구인은 청구인의 지위와 권한을 고려할 때 수수한 금전이 직무의 대가로 인정될 수 있으며, 금액이 사회통념상 사교적 의례의 수준을 초과한다고 주장하였습니다. 이에 따라 기소유예처분이 적절하다는 입장을 보였습니다.",
+        "originwordCnt": "1163",
+        "labelwordCnt": "26"
+    }
+}

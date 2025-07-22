@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "132816",
+        "finalDate": "2009.04.14",
+        "caseNum": "2009헌마145",
+        "caseName": "미결구금일수 불산입 위헌확인",
+        "caseCode": "",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "기본권 침해는 법률조항에 의해 직접 발생하는 것인가요?",
+        "output": "기본권 침해는 해당 법률조항에 의해 직접 발생하는 것이 아니라, 검사의 형집행처분이라는 별도의 구체적 집행행위를 매개로 하여 발생하므로 직접성 요건이 결여되어 있습니다.",
+        "originwordCnt": "376",
+        "labelwordCnt": "21"
+    }
+}

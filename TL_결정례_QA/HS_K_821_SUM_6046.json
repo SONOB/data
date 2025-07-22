@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "821",
+        "finalDate": "2001.09.27",
+        "caseNum": "2001헌사361",
+        "caseName": "기피신청",
+        "caseCode": "헌사",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "재판관 윤영철이 과거 관련 사건에 관여하여 공정한 심판이 어려울 것이라고 주장하였으나, 재판관 윤영철의 관여가 헌법재판소법 제24조 제1항 제5호에 해당하지 않으며, 그에 따라 본안사건에 대한 공정성을 의심할 사유가 없다고 보았습니다. 이로 인해 기피신청은 이유 없다고 판단하여 기각하였습니다.",
+        "originwordCnt": "571",
+        "labelwordCnt": "36"
+    }
+}

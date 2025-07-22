@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "8467",
+        "finalDate": "2005.11.24",
+        "caseNum": "2005헌마823",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "성폭력상담소장인 청구인이 경찰관을 사칭한 혐의로 기소유예처분을 받았고, 이 기소유예처분이 자신의 평등권 및 행복추구권을 침해한다고 주장하였으나, 헌법재판소는 피청구인의 처분이 헌법상 정의와 형평에 반하지 않고 자의적인 처분으로 볼 수 없다고 판단하여 청구를 기각하였습니다.",
+        "originwordCnt": "698",
+        "labelwordCnt": "31"
+    }
+}

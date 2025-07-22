@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "146548",
+        "finalDate": "2018.03.20",
+        "caseNum": "2018헌마198",
+        "caseName": "재판취소 등",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "폭행치상 혐의로 기소된 청구인은 구속 및 재판절차의 위법성을 이유로 헌법소원을 청구했습니다. 하지만 이미 동일한 사안으로 각하된 바 있어 일사부재리 원칙에 위반됩니다. 그러므로 이 사건 심판청구는 부적법하므로 헌법재판소법 제72조 제3항 제4호에 따라 이를 각하하였습니다.",
+        "originwordCnt": "145",
+        "labelwordCnt": "33"
+    }
+}

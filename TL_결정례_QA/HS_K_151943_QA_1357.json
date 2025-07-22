@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "151943",
+        "finalDate": "2019.08.13",
+        "caseNum": "2019헌마745",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌가",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘법령 조항’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "헌법소원심판 청구는 어떤 사유로 각하되었나요?",
+        "output": "기소유예처분을 통지받고, 그로부터 90일이 지난 후에 헌법소원을 제기하였습니다. 따라서 헌법재판소법 제72조 제3항 제2호에 따라 청구기간을 위반한 부적법한 청구로 판단되어 각하 결정이 내려졌습니다.",
+        "originwordCnt": "158",
+        "labelwordCnt": "22"
+    }
+}

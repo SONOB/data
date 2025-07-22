@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "141270",
+        "finalDate": "2009.12.29",
+        "caseNum": "2009헌마744",
+        "caseName": "재판취소",
+        "caseCode": "각하",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "대법원 판결의 취소를 구하는 헌법소원심판을 청구하였으나, 헌법재판소는 원칙적으로 법원의 재판을 대상으로 하는 헌법소원심판청구는 허용되지 아니하므로, 대법원 판결을 심판 대상으로 하고 있는 해당 사건 심판청구는 부적법하다고 판단하였습니다. 이에 따라 해당 심판청구를 각하하였습니다.",
+        "originwordCnt": "156",
+        "labelwordCnt": "31"
+    }
+}

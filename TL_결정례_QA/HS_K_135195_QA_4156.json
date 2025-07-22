@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "135195",
+        "finalDate": "1993.06.02",
+        "caseNum": "93헌마104",
+        "caseName": "신체의자유등침해 위헌확인",
+        "caseCode": "",
+        "courtCode": "기타",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "검사의 약식명령청구에 대한 헌법소원심판청구가 부적법한 이유는 무엇인가요?",
+        "output": "검사의 약식명령청구는 공소제기의 일종으로, 형사재판절차를 통해 권리구제가 가능하기 때문에 독립적으로 헌법소원심판의 청구대상이 될 수 없어 부적법합니다.",
+        "originwordCnt": "146",
+        "labelwordCnt": "16"
+    }
+}

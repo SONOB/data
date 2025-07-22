@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "140354",
+        "finalDate": "2009.12.01",
+        "caseNum": "2009헌아193",
+        "caseName": "재판취소(재심)",
+        "caseCode": "각하",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "헌법소원심판 청구권이 남용되는 경우는 어떤 경우인가요?",
+        "output": "헌법소원심판 청구권이 남용되는 경우는 동일한 사안에 관하여 이미 선고된 헌법재판소의 결정에 대하여 별다른 재심사유를 제시하지 않고 계속적·반복적으로 불복하는 경우입니다. 이는 헌법소원심판 청구권의 남용에 해당합니다.",
+        "originwordCnt": "487",
+        "labelwordCnt": "24"
+    }
+}

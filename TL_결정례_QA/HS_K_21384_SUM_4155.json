@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "21384",
+        "finalDate": "2012.10.25",
+        "caseNum": "2011헌마159",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "기소유예 처분이 청구인의 헌법상 평등권을 침해했다고 주장하며 처분의 취소를 구하는 심판을 제기하였으나, 기록 검토 결과 검사의 수사에 중대한 잘못이 없으며 헌법재판소의 개입이 필요한 상황이 아니라고 판단하였습니다. 따라서 심판청구는 이유 없다고 보고 기각하였습니다.",
+        "originwordCnt": "109",
+        "labelwordCnt": "32"
+    }
+}

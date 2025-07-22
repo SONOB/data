@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "188313",
+        "finalDate": "2024.01.25",
+        "caseNum": "2020헌마1725",
+        "caseName": "기본권 침해 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘재판소 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "교도관 입회행위에 대한 헌법소원심판청구는 적법한가요?",
+        "output": "교도관 입회행위에 대한 헌법소원심판청구는 청구기간을 준수하지 못하여 부적법합니다. 헌법소원심판은 그 사유가 있음을 안 날부터 90일 이내에 청구해야 합니다.",
+        "originwordCnt": "212",
+        "labelwordCnt": "18"
+    }
+}

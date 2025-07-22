@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "157909",
+        "finalDate": "2020.05.12",
+        "caseNum": "2020헌마511",
+        "caseName": "교도소 내 부당처우행위 위헌확인",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "헌법소원심판 청구가 부적법하다고 판단된 이유는 무엇인가요?",
+        "output": "심판청구는 피청구인의 행위가 존재하지 않거나, 헌법소원심판을 청구하기 전에 행정심판 및 행정소송을 통해 다툴 수 있는 절차를 거치지 않아 보충성 요건을 충족하지 못했기 때문에 부적법하여 각하되었습니다.",
+        "originwordCnt": "267",
+        "labelwordCnt": "25"
+    }
+}

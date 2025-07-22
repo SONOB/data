@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "14069",
+        "finalDate": "2010.07.29",
+        "caseNum": "2009헌마334",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "주문의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오",
+        "output": "창원지방검찰청 진주지청이 내린 기소유예처분이 평등권을 침해한다고 주장하며 그 취소를 구하였으나, 헌법재판소는 기록을 검토한 결과 피청구인의 수사가 현저히 정의와 형평에 반하거나 중대한 잘못이 있었다고 볼 수 있는 자료가 없다고 판단하여, 심판청구를 기각하였습니다.",
+        "originwordCnt": "178",
+        "labelwordCnt": "31"
+    }
+}

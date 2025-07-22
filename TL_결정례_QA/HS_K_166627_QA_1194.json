@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "166627",
+        "finalDate": "2021.06.24",
+        "caseNum": "2018헌마663",
+        "caseName": "기소유예처분취소 등",
+        "caseCode": "헌마",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 ‘주문’ 또는 ‘재판소 판단’의 내용’을 포함하여 15어절 이상의 서술형으로 생성하시오.",
+        "input": "기소유예처분이 청구인의 기본권을 침해하였다는 주장에 대한 판단은 무엇입니까?",
+        "output": "기소유예처분은 헌법에 위반되지 않는 심판대상조항에 따라 이루어진 것으로, 자의적 처분이라고 볼 자료가 없으므로 청구인의 기본권을 침해하지 않았다고 판단하였습니다.",
+        "originwordCnt": "3245",
+        "labelwordCnt": "18"
+    }
+}

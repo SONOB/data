@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "152659",
+        "finalDate": "2019.09.26",
+        "caseNum": "2018헌마1058",
+        "caseName": "입법부작위 위헌확인",
+        "caseCode": "헌가",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "청구인의 기본권 침해가 현재 인정되지 않는 이유는 무엇인가요?",
+        "output": "청구인의 기본권 침해는 심판대상조항에 의해 현재 인정되지 않으며, 장차 침해될 우려가 있더라도 이는 단순히 잠재적인 것에 불과하여 기본권 침해의 현재성을 인정할 수 없기 때문입니다.",
+        "originwordCnt": "1148",
+        "labelwordCnt": "24"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "177225",
+        "finalDate": "2003.07.15",
+        "caseNum": "2003헌마431",
+        "caseName": "재판 등 취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "법원의 재판이나 배상심의회의 결정을 대상으로 헌법소원을 청구할 수 있나요?",
+        "output": "법원의 재판이나 배상심의회의 결정을 대상으로 헌법소원을 청구하는 것은 헌법재판소법에 의해 원칙적으로 허용되지 않으며, 다른 구제절차를 거치지 않은 경우에도 부적법하여 각하됩니다.",
+        "originwordCnt": "412",
+        "labelwordCnt": "20"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "49173",
+        "finalDate": "2016.02.25",
+        "caseNum": "2013헌사911",
+        "caseName": "효력정지가처분신청",
+        "caseCode": "헌사",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "가처분 신청이 받아들여지지 않은 이유는 무엇인가요?",
+        "output": "이 사건 가처분 신청은 이유가 없기 때문에 관여 재판관 전원의 일치된 의견으로 기각되었습니다. 따라서 신청인의 주장은 법적으로 타당하지 않은 것으로 판단되어 신청이 받아들여지지 않았습니다.",
+        "originwordCnt": "50",
+        "labelwordCnt": "24"
+    }
+}

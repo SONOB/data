@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "17997",
+        "finalDate": "2011.12.06",
+        "caseNum": "2011헌마736",
+        "caseName": "재판취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "협의이혼 당시 약속된 금액의 일부만 지급받은 청구인은 재산분할 및 위자료 청구 소송에서 패소한 판결이 기본권을 침해한다고 주장하며 헌법소원심판을 청구했습니다. 따라서 헌법재판소는 헌법재판소법 제72조 제3항 제1호 후문에 따라 이 사건 심판청구를 각하하였습니다.",
+        "originwordCnt": "267",
+        "labelwordCnt": "31"
+    }
+}

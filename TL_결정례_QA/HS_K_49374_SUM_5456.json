@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "49374",
+        "finalDate": "2016.03.29",
+        "caseNum": "2016헌마186",
+        "caseName": "기소유예처분취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘주문’의 내용을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "절도죄로 인해 기소유예처분을 받았으나, 그 처분의 취소를 구하는 헌법소원을 제기하였습니다. 그러나 헌법재판소법 제69조 제1항에 따라 처분을 알게 된 날로부터 90일 이내에 청구해야 하는데, 이를 넘겨 청구하여 결국 심판청구가 부적법하다고 판단되어 각하되었습니다.",
+        "originwordCnt": "122",
+        "labelwordCnt": "31"
+    }
+}

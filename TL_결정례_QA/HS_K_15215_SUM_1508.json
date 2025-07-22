@@ -1,0 +1,21 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "15215",
+        "finalDate": "2011.03.22",
+        "caseNum": "2011헌마103",
+        "caseName": "재판취소",
+        "caseCode": "헌마",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "보험해약금 청구에 대한 법원의 판결을 다투는 이 사건 헌법소원심판을 청구하였습니다. 원칙적으로 법원의 재판을 대상으로 하는 헌법소원심판청구는 허용되지 아니하고 예외적인 재판에도 해당되지 않아 부적법하므로 헌법재판소법 제72조 제3항 제1호 후단에 의하여 각하하였습니다.",
+        "originwordCnt": "115",
+        "labelwordCnt": "30"
+    }
+}

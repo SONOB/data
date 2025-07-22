@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "137629",
+        "finalDate": "1999.11.25",
+        "caseNum": "95헌마154",
+        "caseName": "노동조합법 제12조 등 위헌확인",
+        "caseCode": "헌가",
+        "courtCode": "전원재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "'노동단체의 정치화 방지'라는 입법목적이 정당한가요?",
+        "output": "'노동단체의 정치화 방지'라는 입법목적은 헌법상 보장된 정치적 자유를 침해할 수 있으며, 입법자가 헌법상 추구할 수 있는 정당한 목적의 범위를 벗어난 것으로 판단됩니다. 따라서 정당하지 않습니다.",
+        "originwordCnt": "4327",
+        "labelwordCnt": "25"
+    }
+}

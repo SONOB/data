@@ -1,0 +1,22 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "04",
+        "determintId": "45215",
+        "finalDate": "2015.02.16",
+        "caseNum": "2015헌아13",
+        "caseName": "재판취소(재심)",
+        "caseCode": "헌아",
+        "courtCode": "지정재판부",
+        "fullText": "Y",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "질의에 대한 응답은 주문의 내용을 포함하여 15어절 이상의 서술형으로 생성하시오",
+        "input": "헌법재판소는 왜 이 사건 재심청구를 각하했나요?",
+        "output": "헌법재판소는 청구인이 적법한 재심사유를 제시하지 않은 채 동일한 재심청구를 반복적으로 제기한 것이 심판청구권의 남용에 해당한다고 판단했습니다. 따라서 이 사건 재심청구는 부적법하다고 보아 각하했습니다.",
+        "originwordCnt": "124",
+        "labelwordCnt": "23"
+    }
+}

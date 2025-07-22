@@ -1,0 +1,23 @@
+{
+    "info": {
+        "lawClass": "02",
+        "DocuType": "03",
+        "interpreId": "311921",
+        "agenda": "금융위원회 - 집행유예가 만료된 자의 신용협동조합 임원 자격 제한 여부(「신용협동조합법」 제28조제1항 및 제2항 관련)",
+        "agendaNum": "09-0254",
+        "interpreDate": "2009.08.28",
+        "interpreMinCode": "1170000",
+        "interpreMinName": "법제처",
+        "questionMinCode": "",
+        "questionMinName": "",
+        "fullText": "N",
+        "smClass": "",
+        "sentenceType": "서술형"
+    },
+    "label": {
+        "instruction": "‘법령 조항’을 포함하여 30어절 이상의 서술형으로 요약하시오.",
+        "output": "형법상 업무상 배임 및 사기죄로 형의 집행유예를 선고받아 신용협동조합법 제28조 제2항에 따라 즉시 면직된 자는, 신용협동조합법 제28조 제1항 제7호에 의거하여 해임된 것으로 간주되어, 해임 후 5년간 임원 자격이 제한됩니다. 이는 해당 법령이 형사처벌 여부와 관계없이 징계면직이나 해임된 자에 대해 5년간 임원 자격을 제한하는 규정을 두고 있는 점에 비추어보아 합리적인 해석입니다.",
+        "originwordCnt": "58",
+        "labelwordCnt": "50"
+    }
+}
